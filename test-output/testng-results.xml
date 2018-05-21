@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36044" started-at="2018-05-20T06:06:36Z" finished-at="2018-05-20T06:07:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36044" started-at="2018-05-20T06:06:36Z" finished-at="2018-05-20T06:07:12Z">
+      <class name="popcornWorkflows.LoginPage">
+        <test-method status="PASS" signature="SetBaseURL()[pri:0, instance:popcornWorkflows.LoginPage@e67e0a]" name="SetBaseURL" is-config="true" duration-ms="23262" started-at="2018-05-20T06:06:36Z" finished-at="2018-05-20T06:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetBaseURL -->
+        <test-method status="PASS" signature="VerifyValidLogin()[pri:0, instance:popcornWorkflows.LoginPage@e67e0a]" name="VerifyValidLogin" duration-ms="10222" started-at="2018-05-20T06:06:59Z" finished-at="2018-05-20T06:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyValidLogin -->
+        <test-method status="PASS" signature="EndSession()[pri:0, instance:popcornWorkflows.LoginPage@e67e0a]" name="EndSession" is-config="true" duration-ms="2497" started-at="2018-05-20T06:07:10Z" finished-at="2018-05-20T06:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndSession -->
+      </class> <!-- popcornWorkflows.LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
